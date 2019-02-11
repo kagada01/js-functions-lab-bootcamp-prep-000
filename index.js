@@ -4,9 +4,7 @@ var days = 20
 
 var greetingOther = `Happy holidays, you!`
 var holiday = "Independence Day"
-var holidayTwo = "Mother's Day"
-var name = "you"
-var countDown = `It\'s ${days} days until ${holidayTwo}!`
+
 
 function happyHolidays() {
 var greeting = "Happy holidays!"
@@ -26,6 +24,9 @@ var greeting = `Happy ${holiday}, ${name}!`
   return(greeting)
 }
 
-function holidayCountdown(days, holidayTwo) {
+function holidayCountdown(days, holiday) {
+var holiday = "Mother's Day"
+var days = 20
+var countDown = `It\'s ${days} days until ${holidayTwo}!`
   return(countDown)
 }
