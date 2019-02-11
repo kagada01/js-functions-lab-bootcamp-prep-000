@@ -1,7 +1,7 @@
 // write your code below! - Have your variables as local as possible!!!
 //
 var days = 20
-var greeting = `Happy holidays!`
+
 var greetingOther = `Happy holidays, you!`
 var holiday = "Independence Day"
 var holidayTwo = "Mother's Day"
@@ -10,10 +10,11 @@ var happy = `Happy ${holiday}, ${name}!`
 var countDown = `It\'s ${days} days until ${holidayTwo}!`
 
 function happyHolidays() {
+var greeting = `Happy holidays!`
   return(greeting)
 }
 
-function happyHolidaysTo(name) {
+/*function happyHolidaysTo(name) {
   return(greetingOther)
 }
 
