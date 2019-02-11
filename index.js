@@ -6,7 +6,6 @@ var greetingOther = `Happy holidays, you!`
 var holiday = "Independence Day"
 var holidayTwo = "Mother's Day"
 var name = "you"
-var happy = `Happy ${holiday}, ${name}!`
 var countDown = `It\'s ${days} days until ${holidayTwo}!`
 
 function happyHolidays() {
