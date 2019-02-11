@@ -10,7 +10,7 @@ var happy = `Happy ${holiday}, ${name}!`
 var countDown = `It\'s ${days} days until ${holidayTwo}!`
 
 function happyHolidays() {
-var greeting = "Happy holidays!";
+var greeting = "Happy holidays!"
   return(greeting)
 }
 
