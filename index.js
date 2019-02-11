@@ -22,7 +22,9 @@ var greeting = `Happy holidays, ${name}!`
 
 function happyHolidayTo(holiday, name) {
 var holiday = "Independence Day"
-  return(happy)
+var name = "you"
+var greeting = `Happy ${holiday}, ${name}!`
+  return(greeting)
 }
 
 function holidayCountdown(days, holidayTwo) {
