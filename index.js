@@ -21,6 +21,7 @@ var greeting = `Happy holidays, ${name}!`
 }
 
 function happyHolidayTo(holiday, name) {
+var holiday = "Independence Day"
   return(happy)
 }
 
