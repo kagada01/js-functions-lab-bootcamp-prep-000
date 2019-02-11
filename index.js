@@ -27,6 +27,6 @@ var greeting = `Happy ${holiday}, ${name}!`
 function holidayCountdown(days, holiday) {
 var holiday = "Mother's Day"
 var days = 20
-var countDown = `It\'s ${days} days until ${holidayTwo}!`
+var countDown = `It\'s ${days} days until ${holiday}!`
   return(countDown)
 }
