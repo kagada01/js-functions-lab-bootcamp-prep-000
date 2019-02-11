@@ -1,10 +1,4 @@
 // write your code below! - Have your variables as local as possible!!!
-//
-var days = 20
-
-var greetingOther = `Happy holidays, you!`
-var holiday = "Independence Day"
-
 
 function happyHolidays() {
 var greeting = "Happy holidays!"
